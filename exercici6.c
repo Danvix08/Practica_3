@@ -11,4 +11,6 @@ int main() {
         c[i] = a[i] * b[i];
         i++;
     }
+
+    return 0;
 }
